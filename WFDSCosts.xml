@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WFDSCosts>
+   <PickingCosts>
+    	<PickCost>0.25</PickCost>
+    	<InnerCartonPickCost>0.40</InnerCartonPickCost>
+    	<CartonPickCost>0.80</CartonPickCost>
+   </PickingCosts>
+   <PackingDetails>
+	<TubesPerCarton>180</TubesPerCarton>
+	<Peroxides200mlPerCarton>60</Peroxides200mlPerCarton>
+	<Peroxides1000mlPerCarton>60</Peroxides1000mlPerCarton>
+	<BleachSachet30gPerCarton>300</BleachSachet30gPerCarton>
+	<BleachTub200gPerCarton>24</BleachTub200gPerCarton>
+	<BleachTub500gPerCarton>24</BleachTub500gPerCarton>
+	<BleachBag500gPerCarton>40</BleachBag500gPerCarton>
+	<CasablancaOilPerCarton>36</CasablancaOilPerCarton>
+	<ToolkitsPerCarton>36</ToolkitsPerCarton>
+	<CRTraySetsPerCarton>1</CRTraySetsPerCarton>
+   </PackingDetails>
+   <PerOrderCosts>
+	<Labels>2.95</Labels>
+	<FileUpload>0.20</FileUpload>
+   </PerOrderCosts>
+   <TransportCosts>
+	<FuelLevyPercentage>12.00</FuelLevyPercentage>
+	<DGSurchargePercentage>50.00</DGSurchargePercentage>
+	<WeightPerCartonLimitKg>15.00</WeightPerCartonLimitKg>
+	<FreeCartonLimitKg>6.00</FreeCartonLimitKg>
+	<PricePerExcessCarton>1.85</PricePerExcessCarton>
+   </TransportCosts>
+</WFDSCosts>
